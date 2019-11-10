@@ -1,7 +1,7 @@
 # Site settings
 title: LINYQ Blog
 SEOTitle: LINYQ Blog | 雨过天青云破处
-header-img: background.jpg
+header-img: /background.jpg
 email: lyq0591fz@126.com/ lyq0591fz@gmail.com
 description: "HELLO (●'◡'●)"
 keyword: "LINYQ Blog, LINYQ, 林雨青"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "💪 Goals determine what you going to be!"
 sidebar-avatar: /me profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
