@@ -27,7 +27,7 @@ tags:
 
 ## RESEARCH AND PROJECT	
 
-**Study on Framelets with Applications to Signal Processing** | Research Intern                                        Jun 2019-Oct 2019
+**Study on Framelets with Applications to Signal Processing** | Research Intern                                     Jun 2019-Oct 2019
 Advisor: Professor Bin Han (coauthor: I. Daubechies) | Department of Mathematical and Statistical Sciences, **University of Alberta**
 - Applied quasi-tight framelet to signal and image denoising, which performs as well as tight framelets but is easier to generate
 - Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general
