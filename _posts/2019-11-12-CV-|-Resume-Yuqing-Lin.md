@@ -4,7 +4,7 @@ title:      CV-|-Resume-Yuqing-Lin
 subtitle:   Objective: Electronics
 date:       2019-11-12
 author:     Yuqing Lin
-header-img: img/cv_backg.jpg
+header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
     - Blog
