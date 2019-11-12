@@ -10,15 +10,6 @@ tags:
     - CV
 ---
 
-
-# Catalog 
-
--  Education
--  PUBLICATIONS AND PATENTS
--  RESEARCH AND PROJECT	
--  HONORS/AWARDS
--  LEADERSHIP AND ACTIVITIES
-
 ## EDUCATION
 	
 **Beijing Institute of Technology (BIT), China**                                         	                          Sep 2016- Jun 2020
@@ -40,43 +31,55 @@ Advisor: Professor Bin Han (coauthor: I. Daubechies) | Department of Mathematica
 - Applied quasi-tight framelet to signal and image denoising, which performs as well as tight framelets but is easier to generate
 - Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general
 - Designed a new method for image edge analysis using box spline quasi-tight wavelet framelet, which is able to detect Dirac edges and hidden edges better than shearlet, Canny, Chan-Vese methods and is also robust against noise
+
 **Land and Air Amphibious Reconnaissance Vehicle** | Team Leader, Key Developer                                         Dec 2017-Present
 Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in Fuzhou University &Associate Professor Yanjun Zhang | Institute of Microelectronics Technology, BIT 
 - Constructed a land and air amphibious vehicle for reconnaissance and transportation, which won outstanding prize of "Challenge Cup"
 - Created a new vehicle structure— long arms, large propellers and stabilized platform, and continuous tracks
 - Achieved more than twice the duration by 6S battery and APM 2.8’s control to 2 modes, compared to similarly sized drones
+
 **Robotic Interoperability Systems** | Research Assistant                                                              Jun 2018-Jan 2019
 Advisor: Associate Professor Xiang Xie | Research Institute of Communication Technology, BIT
 - Completed multi-robot interoperability system by UWB localization and tested it for the World Robot Conference (2018) 
 - Produced multi-robot sound source following system, which is especially useful for helping fallen elders in hospitals.
 - Developed STM32 embedded applications and revised the upper monitor with Qt5 to specialize the system
 - Developed a 3-ball positioning coordination calculation algorithms using Python
+
 **Intelligent Anti-lost Reminder for Cards** | Team Leader, Key Developer                                              Sep 2016-Sep 2017
 Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in Fuzhou University & Instructor Xinghua Wang | Microsystems and Integrated Circuits club, BIT
 - Completed a device that prevented people from losing cards and applied it in dormitory bathrooms (reaching over 500 people
 - Designed 3 modules (sensor, process and reminder) using SystemView and soldered the 3-D circuit 
 - Earned first-author patent rights for the real product model (2018)
 
-### HONORS/AWARDS
+## HONORS/AWARDS
 
 - China Electronics Technology Instrument (Ceyear) Scholarship (Top 4 out of 1700)                                                  2019
+
 - Outstanding Winner of "Challenge Cup" National Undergraduate Competition in BIT area(Top 2% out of 2000+)                         2019
+
 - Excellent Student of BIT (Top 3% out of 1700)                                                                                     2018
-- The Second Prize for International BRICS-Young Makers Competition				                                                    2018
+
+- The Second Prize for International BRICS-Young Makers Competition		                                                    2018
+
 - First-class scholarship of BIT (Top 2% out of 250)                                                                                2018
+
 - First place in Beijing University Martial Arts Group Competition                                                                  2018
 
-### LEADERSHIP AND ACTIVITIES
+## LEADERSHIP AND ACTIVITIES
 
 **BIT ENACTUS** | VP Technology                                                                                        Sep 2016-Jun 2018
 - Recognized as Enactus China Active Student (2016) and led 2 teams to participate in Enactus World Cup in Beijing
+
 **Student Union**, BIT | Minister of International Department                                  	                       Sep 2016-Oct 2017
 - Organized international activities, including the First International Culture Festival (5000+ people from 50+ countries) 
+
 **“One Hour After Class” in Beijing** | Volunteer Teacher, Star Volunteer                      	                       Oct 2016-Jun 2017
 - Responsible for teaching science and guiding projects for disabled children and the children of migrant workers
 
 ### SKILLS
 
 Programming Languages: MATLAB, Python, C, Verilog/VHDL, Assembly language
+
 Tools: Multisim, HFSS, Keil, Vivado, Modelsim, Quartus, SystemView, Origin, Qt4, latex, Microsoft Office
+
 Standard English Tests: GRE: V156 Q169 AW3.5        TOEFL: Total 101        IELTS: Overall 7.5 (R8+L8+S6.5+W6.5)
