@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      CV | Resume Yuqing Lin
+title:      CV-|-Resume-Yuqing-Lin
 subtitle:   Objective: Electronics
 date:       2019-11-01
 author:     Yuqing Lin
