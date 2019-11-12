@@ -35,7 +35,7 @@ tags:
 
 Advisor: Professor Bin Han (coauthor: I. Daubechies) | Department of Mathematical and Statistical Sciences, **University of Alberta**
 - Applied quasi-tight framelet to signal and image denoising, which performs as well as tight framelets but is easier to generate
-- Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general
+- Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general 
 - Designed a new method for image edge analysis using box spline quasi-tight wavelet framelet, which is able to detect Dirac edges and hidden edges better than shearlet, Canny, Chan-Vese methods and is also robust against noise
 
 **Land and Air Amphibious Reconnaissance Vehicle** | Team Leader, Key Developer
