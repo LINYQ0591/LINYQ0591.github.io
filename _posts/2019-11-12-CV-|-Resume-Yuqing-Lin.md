@@ -15,7 +15,7 @@ tags:
 	
 **Beijing Institute of Technology (BIT), China** 
 
-Sep 2016- Jun 2020
+🚩Sep 2016- Jun 2020
 - B.Eng. in Electronics and Communications Engineering
 - **GPA: 3.67/4.0, Major GPA: 4.0/4.0** ( Ranking: Top 10 out of 250+ students, top 5 among female students)
 - Core Courses: Spread Spectrum Signal Processing and Application (100) /Digital Circuit (96)/ Information theory and coding (95) / Theoretical Basis of Communication Network (92)/Analog Circuit (92)/ Communication Circuit & Systems (92)/ Digital Signal Processing (91)/ Theory of Electromagnetic Field (91)/ Signals and Systems (90)
@@ -29,26 +29,38 @@ Sep 2016- Jun 2020
 
 ## RESEARCH AND PROJECT	
 
-**Study on Framelets with Applications to Signal Processing** | Research Intern  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;Jun 2019-Oct 2019
+**Study on Framelets with Applications to Signal Processing** | Research Intern
+
+🚩Jun 2019-Oct 2019
+
 Advisor: Professor Bin Han (coauthor: I. Daubechies) | Department of Mathematical and Statistical Sciences, **University of Alberta**
 - Applied quasi-tight framelet to signal and image denoising, which performs as well as tight framelets but is easier to generate
 - Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general
 - Designed a new method for image edge analysis using box spline quasi-tight wavelet framelet, which is able to detect Dirac edges and hidden edges better than shearlet, Canny, Chan-Vese methods and is also robust against noise
 
-**Land and Air Amphibious Reconnaissance Vehicle** | Team Leader, Key Developer   &emsp;  &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Dec 2017-Present
+**Land and Air Amphibious Reconnaissance Vehicle** | Team Leader, Key Developer
+
+🚩Dec 2017-Present
+
 Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in Fuzhou University &Associate Professor Yanjun Zhang | Institute of Microelectronics Technology, BIT 
 - Constructed a land and air amphibious vehicle for reconnaissance and transportation, which won outstanding prize of "Challenge Cup"
 - Created a new vehicle structure— long arms, large propellers and stabilized platform, and continuous tracks
 - Achieved more than twice the duration by 6S battery and APM 2.8’s control to 2 modes, compared to similarly sized drones
 
-**Robotic Interoperability Systems** | Research Assistant                     &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   Jun 2018-Jan 2019
+**Robotic Interoperability Systems** | Research Assistant 
+
+🚩Jun 2018-Jan 2019
+
 Advisor: Associate Professor Xiang Xie | Research Institute of Communication Technology, BIT
 - Completed multi-robot interoperability system by UWB localization and tested it for the World Robot Conference (2018) 
 - Produced multi-robot sound source following system, which is especially useful for helping fallen elders in hospitals.
 - Developed STM32 embedded applications and revised the upper monitor with Qt5 to specialize the system
 - Developed a 3-ball positioning coordination calculation algorithms using Python
 
-**Intelligent Anti-lost Reminder for Cards** | Team Leader, Key Developer         &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;           Sep 2016-Sep 2017
+**Intelligent Anti-lost Reminder for Cards** | Team Leader, Key Developer
+
+🚩Sep 2016-Sep 2017
+
 Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in Fuzhou University & Instructor Xinghua Wang | Microsystems and Integrated Circuits club, BIT
 - Completed a device that prevented people from losing cards and applied it in dormitory bathrooms (reaching over 500 people
 - Designed 3 modules (sensor, process and reminder) using SystemView and soldered the 3-D circuit 
@@ -56,7 +68,7 @@ Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in F
 
 ## HONORS/AWARDS
 
-###2019
+**2019**
 
 - China Electronics Technology Instrument (Ceyear) Scholarship (Top 4 out of 1700)
 
@@ -64,7 +76,7 @@ Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in F
 
 - Excellent Student of BIT (Top 3% out of 1700)     
 
-###2018
+**2018**
 - The Second Prize for International BRICS-Young Makers Competition		
 
 - First-class scholarship of BIT (Top 2% out of 250)                
@@ -73,13 +85,19 @@ Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in F
 
 ## LEADERSHIP AND ACTIVITIES
 
-**BIT ENACTUS** | VP Technology                   &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;                                             Sep 2016-Jun 2018
+**BIT ENACTUS** | VP Technology 
+
+🚩Sep 2016-Jun 2018
 - Recognized as Enactus China Active Student (2016) and led 2 teams to participate in Enactus World Cup in Beijing
 
-**Student Union**, BIT | Minister of International Department             &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;                     Sep 2016-Oct 2017
+**Student Union**, BIT | Minister of International Department  
+
+🚩Sep 2016-Oct 2017
 - Organized international activities, including the First International Culture Festival (5000+ people from 50+ countries) 
 
-**“One Hour After Class” in Beijing** | Volunteer Teacher, Star Volunteer             &emsp;   &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;               Oct 2016-Jun 2017
+**“One Hour After Class” in Beijing** | Volunteer Teacher, Star Volunteer
+
+🚩Oct 2016-Jun 2017
 - Responsible for teaching science and guiding projects for disabled children and the children of migrant workers
 
 ### SKILLS
