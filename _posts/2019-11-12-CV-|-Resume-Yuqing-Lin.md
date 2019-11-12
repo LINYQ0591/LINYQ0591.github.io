@@ -90,5 +90,4 @@ V156 Q169 AW3.5 | Total 101 |  Overall 7.5 (R8+L8+S6.5+W6.5)
 
 GRE | TOEFL | IELTS | 333 | 444
 :- | :-: | :-: | :-: | -:
-aaa | bbb | ccc | ddd | eee| 
-V156 Q169 AW3.5 | Total 101 |  Overall 7.5 (R8+L8+S6.5+W6.5)| iii | 000|
+V156 Q169 AW3.5 | Total 101 |  Overall 7.5 (R8+L8+S6.5+W6.5)
