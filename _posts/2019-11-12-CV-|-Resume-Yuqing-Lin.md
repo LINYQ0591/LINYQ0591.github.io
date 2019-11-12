@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      CV|Resume--YuqingLin
-subtitle:   Objective: Electronics
+subtitle:   Objective--Electronics
 date:       2019-11-12
 author:     Yuqing-Lin
 header-img: img/cv_backg.jpg
