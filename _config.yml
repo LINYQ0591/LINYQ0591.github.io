@@ -1,11 +1,11 @@
 # Site settings
 title: LINYQ Blog
 SEOTitle: LINYQ Blog | 雨过天青云破处
-header-img: img/post-bg-rwd.jpg
+header-img: img/page_background.jpg
 email: lyq0591fz@126.com/ lyq0591fz@gmail.com
 description: "HELLO (●'◡'●)"
 keyword: "LINYQ Blog, LINYQ, 林雨青"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://LINYQ0591.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -18,12 +18,12 @@ sidebar-avatar: /me profile.jpg      # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
-#github_username:    qiubaiying
+# weibo_username:     
+#zhihu_username:  
+#github_username:    
 facebook_username:  Yuqing Lin
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#jianshu_username:   
+#twitter_username:  
 
 
 # Build settings
@@ -90,10 +90,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
+      {
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
