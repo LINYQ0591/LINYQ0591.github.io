@@ -10,21 +10,30 @@ tags:
     - CV
 ---
 
-### Education
+
+### Catalog 
+
+-  Education
+-  PUBLICATIONS AND PATENTS
+-  RESEARCH AND PROJECT	
+-  HONORS/AWARDS
+-  LEADERSHIP AND ACTIVITIES
+
+## EDUCATION
 	
 **Beijing Institute of Technology (BIT), China**                                         	                          Sep 2016- Jun 2020
 - B.Eng. in Electronics and Communications Engineering
 - **GPA: 3.67/4.0, Major GPA: 4.0/4.0** ( Ranking: Top 10 out of 250+ students, top 5 among female students)
 - Core Courses: Spread Spectrum Signal Processing and Application (100) /Digital Circuit (96)/ Information theory and coding (95) / Theoretical Basis of Communication Network (92)/Analog Circuit (92)/ Communication Circuit & Systems (92)/ Digital Signal Processing (91)/ Theory of Electromagnetic Field (91)/ Signals and Systems (90)
 
-### PUBLICATIONS AND PATENTS
+## PUBLICATIONS AND PATENTS
 
 1.	**Yuqing Lin**, Y. Lin, J. Yu. (2019, May). Defect Detection System for Optical Element Surface Based on Machine Vision, In International Conference on Communication Engineering, Computer Science, Artificial Intelligence (pp. CCA 888), 2019 IEEE International Conference on Information Systems and Computer Aided Education（will be indexed by EI Compendex soon）
 2.	**Yuqing Lin**, Hai Pei,  [A Reminder Device for Card Safeguard](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN207799879U), Chinese Invention Patent, Patent Number: ZL 201820136659.X, Date: 2018.01.26
 3.	H. P., H. Y., **Yuqing Lin**, J. X., L. Z., B. Z., [Multifunctional desk lamp based on Embedded System](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN209130571U), Chinese Invention Patent, Patent Number: ZL 2018 2 2135479.6, Date: 2019.07.19
 4.	Hai Pei, Jieyu Xie, **Yuqing Lin**, [An Improved Door Lock Based on Traditional Door Handle](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN207794802U), Chinese Invention Patent, Patent Number: ZL 201820028718.5, Date: 2018.01.08
 
-### RESEARCH AND PROJECT	
+## RESEARCH AND PROJECT	
 
 **Study on Framelets with Applications to Signal Processing** | Research Intern                                        Jun 2019-Oct 2019
 Advisor: Professor Bin Han (coauthor: I. Daubechies) | Department of Mathematical and Statistical Sciences, **University of Alberta**
