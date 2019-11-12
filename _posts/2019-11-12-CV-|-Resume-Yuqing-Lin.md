@@ -85,10 +85,10 @@ Tools: Multisim, HFSS, Keil, Vivado, Modelsim, Quartus, SystemView, Origin, Qt4,
 
 Standard English Tests:
 GRE | TOEFL | IELTS |
-- | :-: | -:
+:- | :-: | -:
 V156 Q169 AW3.5 | Total 101 |  Overall 7.5 (R8+L8+S6.5+W6.5)
 
 name | 111 | 222 | 333 | 444
- - | :-: | :-: | :-: | -:
+:- | :-: | :-: | :-: | -:
 aaa | bbb | ccc | ddd | eee| 
 fff | ggg| hhh | iii | 000|
