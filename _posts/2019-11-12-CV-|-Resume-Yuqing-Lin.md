@@ -1,8 +1,9 @@
+
 ---
 layout:     post
-title:      CV-|-Resume-Yuqing-Lin
-subtitle:   Objective: Electronics
-date:       2019-11-12
+title:      快速搭建个人博客
+subtitle:   手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)
+date:       2017-02-06
 author:     Yuqing Lin
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
