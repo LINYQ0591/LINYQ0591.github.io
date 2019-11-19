@@ -29,7 +29,7 @@ tags:
 
 ## RESEARCH AND PROJECT	
 
-**Study on Framelets with Applications to Signal Processing** \| Research Intern
+[**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
 
 <  Jun 2019-Oct 2019  >
 
