@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      CV|Resume--YuqingLin
-subtitle:   Objective--Electronics
-date:       2019-11-12
+subtitle:   Objective--Signal and information processing
+date:       2021-03-07
 author:     Yuqing-Lin
 header-img: img/cv_backg.jpg
 catalog: true
@@ -13,12 +13,17 @@ tags:
 
 ## EDUCATION
 	
-**Beijing Institute of Technology (BIT), China** 
-
+###Beijing Institute of Technology (BIT), China
 < Sep 2016- Jun 2020 >
 - B.Eng. in Electronics and Communications Engineering
-- **GPA: 3.67/4.0, Major GPA: 4.0/4.0** ( Ranking: Top 10 out of 250+ students, top 5 among female students)
+- **GPA: 3.67/4.0, Major GPA: 4.0/4.0** ( Ranking: Top 10 out of 250+ students)
 - Core Courses: Spread Spectrum Signal Processing and Application (100) /Digital Circuit (96)/ Information theory and coding (95) / Theoretical Basis of Communication Network (92)/Analog Circuit (92)/ Communication Circuit & Systems (92)/ Digital Signal Processing (91)/ Theory of Electromagnetic Field (91)/ Signals and Systems (90)
+
+###University of Chinese Academy of Sciences(UCAS), China
+< Sep 2020- present >
+- Ph.D. student in Signal and information processing
+- GPA: 3.83/4.0
+- Core Courses: Digital Video Processing(98) /Machine Learning(90)
 
 ## PUBLICATIONS AND PATENTS
 
@@ -29,16 +34,16 @@ tags:
 
 ## RESEARCH AND PROJECT	
 
-[**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
+###[**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
 
 <  Jun 2019-Oct 2019  >
 
-Advisor: Professor Bin Han (coauthor: I. Daubechies) | Department of Mathematical and Statistical Sciences, **University of Alberta**
+Advisor: Professor Bin Han (supervisor: I. Daubechies) | Department of Mathematical and Statistical Sciences, **University of Alberta**
 - Applied quasi-tight framelet to signal and image denoising, which performs as well as tight framelets but is easier to generate
 - Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general 
 - Designed a new method for image edge analysis using box spline quasi-tight wavelet framelet, which is able to detect Dirac edges and hidden edges better than shearlet, Canny, Chan-Vese methods and is also robust against noise
 
-**Land and Air Amphibious Reconnaissance Vehicle** \| Team Leader, Key Developer
+###**Land and Air Amphibious Reconnaissance Vehicle** \| Team Leader, Key Developer
 
 <  Dec 2017-Present  >
 
@@ -47,7 +52,7 @@ Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in F
 - Created a new vehicle structure— long arms, large propellers and stabilized platform, and continuous tracks
 - Achieved more than twice the duration by 6S battery and APM 2.8’s control to 2 modes, compared to similarly sized drones
 
-**Robotic Interoperability Systems** \| Research Assistant 
+###**Robotic Interoperability Systems** \| Research Assistant 
 
 <  Jun 2018-Jan 2019  >
 
@@ -57,7 +62,7 @@ Advisor: Associate Professor Xiang Xie | Research Institute of Communication Tec
 - Developed STM32 embedded applications and revised the upper monitor with Qt5 to specialize the system
 - Developed a 3-ball positioning coordination calculation algorithms using Python
 
-**Intelligent Anti-lost Reminder for Cards** \| Team Leader, Key Developer
+###**Intelligent Anti-lost Reminder for Cards** \| Team Leader, Key Developer
 
 <  Sep 2016-Sep 2017  >
 
@@ -68,19 +73,19 @@ Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in F
 
 ## HONORS/AWARDS
 
+**2020**
+
+- Beijing Outstanding Graduate (**Top 3%** out of all the graduates)
+- BIT Outstanding Graduate
+
 **2019**
-
-- China Electronics Technology Instrument (Ceyear) Scholarship (Top 4 out of 1700)
-
-- Outstanding Winner of "Challenge Cup" National Undergraduate Competition in BIT area(Top 2% out of 2000+)
-
-- Excellent Student of BIT (Top 3% out of 1700)     
+- China Electronics Technology Instrument (Ceyear) Scholarship (**Top 4** out of 1700)
+- Outstanding Winner of "Challenge Cup" National Undergraduate Competition in BIT area(**Top 2%** out of 2000+)
+- Excellent Student of BIT (**Top 3%** out of 1700)     
 
 **2018**
 - The Second Prize for International BRICS-Young Makers Competition		
-
 - First-class scholarship of BIT (Top 2% out of 250)                
-
 - First place in Beijing University Martial Arts Group Competition 
 
 ## LEADERSHIP AND ACTIVITIES
