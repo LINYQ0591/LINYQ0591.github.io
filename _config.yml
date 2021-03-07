@@ -1,8 +1,8 @@
 # Site settings
 title: LINYQ Blog
-SEOTitle: LINYQ Blog | 雨过天青云破处
+SEOTitle: LINYQ Blog  |  雨过天青云破处
 header-img: img/page_background.jpg
-email: lyq0591fz@126.com/ lyq0591fz@gmail.com
+email: lyq0591fz@126.com/ lyq0591fz@outlook.com
 description: "HELLO (●'◡'●)"
 keyword: "LINYQ Blog, LINYQ, 林雨青"
 url: "http://LINYQ0591.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "💪The more comfortable we become with being stupid, the deeper we will wade into the unknown and the more likely we are to make big discoveries."
+sidebar-about-description: "Life-long Student."
 sidebar-avatar: /me profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /me profile.jpg      # use absolute URL, seeing it's used in bot
 RSS: false
 # weibo_username:     
 #zhihu_username:  
-#github_username:    
+github_username:  LINYQ0591  
 facebook_username:  Yuqing Lin
 #jianshu_username:   
 #twitter_username:  
@@ -91,13 +91,11 @@ service-worker: true
 # Friends
 friends: [
       {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+       {
+        title: "U of A",
+        href: "https://www.ualberta.ca/index.html"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "UCAS",
+        href: "https://english.ucas.ac.cn/"
     }
 ]
