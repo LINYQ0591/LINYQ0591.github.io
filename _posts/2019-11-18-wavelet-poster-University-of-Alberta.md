@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      wavelet-poster
-subtitle:   University-of-Alberta
-date:       2019-11-18
+title:      Signal Processing by Wavelets
+subtitle:   in University of Alberta
+date:       2019-10-18
 author:     Yuqing-Lin
 header-img: img/about_background.jpg
 catalog: true
