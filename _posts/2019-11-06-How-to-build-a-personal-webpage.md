@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      How-to-build-a-personal-webpage?
-subtitle:   the frame was forked from BY's
+title:      How to build a personal webpage
+subtitle:   frame
 date:       2019-11-06
 author:     BY&LYQ
 header-img: img/post-bg-re-vs-ng2.jpg
@@ -12,12 +12,11 @@ tags:
 
 > 正所谓前人栽树，后人乘凉。
 > 
-> 感谢[Huxpro](https://github.com/huxpro)提供的博客模板
+> 感谢[Huxpro](https://github.com/huxpro)和[BY博客](http://qiubaiying.top)提供的博客模板
 > 
-> [我的的博客](http://qiubaiying.top)
 
 # 前言
-从 Jekyll 到 GitHub Pages 中间踩了许多坑，终于把我的个人博客[BY Blog](http://qiubaiying.top)搭建出来了。。。
+从 Jekyll 到 GitHub Pages 中间踩了许多坑，终于把我的个人博客搭建出来了。
 
 本教程针对的是不懂技术又想搭建个人博客的小白，操作简单暴力且快速。当然懂技术那就更好了。
 
