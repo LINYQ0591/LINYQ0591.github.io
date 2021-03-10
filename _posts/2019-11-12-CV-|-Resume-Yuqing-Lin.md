@@ -36,7 +36,7 @@ tags:
 
 [**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
 
-- <  Jun 2019-Oct 2019  >
+⌚ <  Jun 2019-Oct 2019  >
 - Advisor: Prof. Bin Han (supervisor: Porf. I. Daubechies) | Department of Mathematical and Statistical Sciences, **University of Alberta**
  
   - Applied quasi-tight framelet to signal and image denoising, which performs as well as tight framelets but is easier to generate
@@ -45,7 +45,7 @@ tags:
 
 **Land and Air Amphibious Reconnaissance Vehicle** \| Team Leader, Key Developer
 
-- <  Dec 2017-Jun 2019  >
+⌚ <  Dec 2017-Jun 2019  >
 - Advisor: Prof. Yingjie Wu | College of Mathematics and Computer Science in Fuzhou University &Associate Professor Yanjun Zhang | Institute of Microelectronics Technology, BIT 
 
   - Constructed a land and air amphibious vehicle for reconnaissance and transportation, which won outstanding prize of "Challenge Cup"
@@ -54,7 +54,7 @@ tags:
 
 **Robotic Interoperability Systems** \| Research Assistant 
 
-- <  Jun 2018-Jan 2019  >
+⌚ <  Jun 2018-Jan 2019  >
 - Advisor: Prof. Xiang Xie | Research Institute of Communication Technology, BIT
  
   - Completed multi-robot interoperability system by UWB localization and tested it for the World Robot Conference (2018) 
@@ -64,10 +64,10 @@ tags:
 
 **Intelligent Anti-lost Reminder for Cards** \| Team Leader, Key Developer
 
-- <  Sep 2016-Sep 2017  >
+⌚<  Sep 2016-Sep 2017  >
 - Advisor: Prof. Yingjie Wu | College of Mathematics and Computer Science in Fuzhou University & Instructor Xinghua Wang | Microsystems and Integrated Circuits club, BIT
  
- - Completed a device that prevented people from losing cards and applied it in dormitory bathrooms (reaching over 500 people
+  - Completed a device that prevented people from losing cards and applied it in dormitory bathrooms (reaching over 500 people
   - Designed 3 modules (sensor, process and reminder) using SystemView and soldered the 3-D circuit 
   - Earned first-author patent rights for the real product model (2018)
 
@@ -75,7 +75,7 @@ tags:
 
 - **2020**
 
-  - Beijing Outstanding Graduate (**Top 3%** out of all the graduates)
+  - **Beijing Outstanding Graduate** (**Top 3%** out of all the graduates)
   - BIT Outstanding Graduate
 
 - **2019**
@@ -94,15 +94,15 @@ tags:
 
 - **BIT ENACTUS** \| VP Technology  <Sep 2016-Jun 2018>
 
-  - Recognized as Enactus China Active Student (2016) and led 2 teams to participate in Enactus World Cup in Beijing
+  - Recognized as **Enactus China Active Student (2016)** and led 2 teams to participate in Enactus World Cup in Beijing
 
 - **Student Union**, BIT \| Minister of International Department  <Sep 2016-Oct 2017>
 
-  - Organized international activities, including the First International Culture Festival (5000+ people from 50+ countries) 
+  - Organized international activities, including the First International Culture Festival (*5000+ people from 50+ countries*) 
 
 - **“One Hour After Class” in Beijing** \| Volunteer Teacher, Star Volunteer  <Oct 2016-Jun 2017>
 
-  - Responsible for teaching science and guiding projects for disabled children and the children of migrant workers
+  - Responsible for **teaching science and guiding projects for disabled children and the children of migrant workers**
 
 ### SKILLS
 
@@ -112,6 +112,6 @@ tags:
 
 - **Standard English Tests**: 
 
-**GRE | TOEFL | IELTS **
+**GRE** | **TOEFL** | **IELTS **
 :-: | :-: | :-:
 V156 Q169 AW3.5 | Total 101 |  Overall 7.5 (R8+L8+S6.5+W6.5)
