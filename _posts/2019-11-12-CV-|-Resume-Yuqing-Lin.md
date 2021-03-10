@@ -22,7 +22,7 @@ tags:
 **University of Chinese Academy of Sciences(UCAS), China**
 < Sep 2020- present >
 - **Ph.D. student in Signal and information processing**
-- **GPA: 3.83/4.0**
+- **GPA: 3.86/4.0**
 - **Core Courses**: Digital Video Processing(98) /Machine Learning(90)
 
 ## PUBLICATIONS AND PATENTS
