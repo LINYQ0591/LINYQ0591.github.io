@@ -34,7 +34,7 @@ tags:
 
 ## RESEARCH AND PROJECT	
 
--[**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
+- [**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
 
 <  Jun 2019-Oct 2019  >
 Advisor: Professor Bin Han (supervisor: I. Daubechies) | Department of Mathematical and Statistical Sciences, **University of Alberta**
@@ -42,7 +42,7 @@ Advisor: Professor Bin Han (supervisor: I. Daubechies) | Department of Mathemati
   - Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general 
   - Designed a new method for image edge analysis using box spline quasi-tight wavelet framelet, which is able to detect Dirac edges and hidden edges better than shearlet, Canny, Chan-Vese methods and is also robust against noise
 
--**Land and Air Amphibious Reconnaissance Vehicle** \| Team Leader, Key Developer
+- **Land and Air Amphibious Reconnaissance Vehicle** \| Team Leader, Key Developer
 
 <  Dec 2017-Jun 2019  >
 Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in Fuzhou University &Associate Professor Yanjun Zhang | Institute of Microelectronics Technology, BIT 
@@ -50,7 +50,7 @@ Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in F
   - Created a new vehicle structure— long arms, large propellers and stabilized platform, and continuous tracks
   - Achieved more than twice the duration by 6S battery and APM 2.8’s control to 2 modes, compared to similarly sized drones
 
--**Robotic Interoperability Systems** \| Research Assistant 
+- **Robotic Interoperability Systems** \| Research Assistant 
 
 <  Jun 2018-Jan 2019  >
 Advisor: Associate Professor Xiang Xie | Research Institute of Communication Technology, BIT
@@ -69,45 +69,45 @@ Advisor: Professor Yingjie Wu | College of Mathematics and Computer Science in F
 
 ## HONORS/AWARDS
 
--**2020**
+- **2020**
 
   - Beijing Outstanding Graduate (**Top 3%** out of all the graduates)
   - BIT Outstanding Graduate
 
--**2019**
+- **2019**
   - China Electronics Technology Instrument (Ceyear) Scholarship (**Top 4** out of 1700)
   - Outstanding Winner of "Challenge Cup" National Undergraduate Competition in BIT area(**Top 2%** out of 2000+)
   - Excellent Student of BIT (**Top 3%** out of 1700)     
 
--**2018**
+- **2018**
   - The Second Prize for International BRICS-Young Makers Competition		
   - First-class scholarship of BIT (Top 2% out of 250)                
   - First place in Beijing University Martial Arts Group Competition 
 
 ## LEADERSHIP AND ACTIVITIES
 
--**BIT ENACTUS** \| VP Technology 
+- **BIT ENACTUS** \| VP Technology 
 
 <  Sep 2016-Jun 2018  >
   - Recognized as Enactus China Active Student (2016) and led 2 teams to participate in Enactus World Cup in Beijing
 
--**Student Union**, BIT \| Minister of International Department  
+- **Student Union**, BIT \| Minister of International Department  
 
 <  Sep 2016-Oct 2017  >
   - Organized international activities, including the First International Culture Festival (5000+ people from 50+ countries) 
 
--**“One Hour After Class” in Beijing** \| Volunteer Teacher, Star Volunteer
+- **“One Hour After Class” in Beijing** \| Volunteer Teacher, Star Volunteer
 
 <  Oct 2016-Jun 2017  >
   - Responsible for teaching science and guiding projects for disabled children and the children of migrant workers
 
 ### SKILLS
 
--Programming Languages: MATLAB, Python, C, Verilog/VHDL, Assembly language
+- Programming Languages: MATLAB, Python, C, Verilog/VHDL, Assembly language
 
--Tools: Multisim, HFSS, Keil, Vivado, Modelsim, Quartus, SystemView, Origin, Qt4, latex, Microsoft Office, Markdown
+- Tools: Multisim, HFSS, Keil, Vivado, Modelsim, Quartus, SystemView, Origin, Qt4, latex, Microsoft Office, Markdown
 
--Standard English Tests: 
+- Standard English Tests: 
 
 GRE | TOEFL | IELTS 
 :-: | :-: | :-:
