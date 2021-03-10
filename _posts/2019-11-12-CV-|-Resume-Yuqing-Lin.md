@@ -16,7 +16,7 @@ tags:
 **Beijing Institute of Technology (BIT), China**
 < Sep 2016- Jun 2020 >
 - **B.Eng. in Electronics and Communications Engineering**
-- **GPA: 3.67/4.0, Major GPA: 4.0/4.0** ( Ranking: Top 10 out of 250+ students)
+- **GPA: 3.67/4.0, Major GPA: 4.0/4.0** ( Ranking: Top 10 out of 250+ students, **guaranteed Ph.D. admission**)
 - **Core Courses**: Spread Spectrum Signal Processing and Application (100) /Digital Circuit (96)/ Information theory and coding (95) / Theoretical Basis of Communication Network (92)/Analog Circuit (92)/ Communication Circuit & Systems (92)/ Digital Signal Processing (91)/ Theory of Electromagnetic Field (91)/ Signals and Systems (90)
 
 **University of Chinese Academy of Sciences(UCAS), China**
