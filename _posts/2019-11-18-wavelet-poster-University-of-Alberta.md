@@ -17,7 +17,7 @@ To extract the wanted information of the input, transformation of the signal is 
 
 ✍ **Exploration in Wavelet Transform:**
 
-For example, well-performed quasi-tight framelets could be generated conveniently. Thus, I applied fast algorithm of them to **singularity detection and denoising**, which are important in IoT as well. 
+For example, well-performed quasi-tight framelets could be generated conveniently. Thus, I applied fast algorithm of them to **singularity detection and denoising**.
 
 Moreover, I designed a box spline quasi-tight framelet method to **detect Dirac edges and hidden edges**, which is robust to noise than many classical methods. 
 
