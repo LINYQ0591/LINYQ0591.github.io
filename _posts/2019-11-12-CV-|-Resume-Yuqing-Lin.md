@@ -37,7 +37,7 @@ tags:
 ✦[**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
 
  <  Jun 2019-Oct 2019  >
-- Advisor: Prof. Bin Han (supervisor: Porf. I. Daubechies) \| Department of Mathematical and Statistical Sciences, **University of Alberta**
+ Advisor: Prof. Bin Han (supervisor: Porf. I. Daubechies) \| Department of Mathematical and Statistical Sciences, **University of Alberta**
  
   - Applied quasi-tight framelet to signal and image denoising, which performs as well as tight framelets but is easier to generate
   - Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general 
@@ -46,7 +46,7 @@ tags:
 ✦**Land and Air Amphibious Reconnaissance Vehicle** \| Team Leader, Key Developer
 
   <  Dec 2017-Jun 2019  >
-- Advisor: Prof. Yingjie Wu \| College of Mathematics and Computer Science in Fuzhou University &Associate Professor Yanjun Zhang | Institute of Microelectronics Technology, BIT 
+ Advisor: Prof. Yingjie Wu \| College of Mathematics and Computer Science in Fuzhou University &Associate Professor Yanjun Zhang \| Institute of Microelectronics Technology, BIT 
 
   - Constructed a land and air amphibious vehicle for reconnaissance and transportation, which won outstanding prize of "Challenge Cup"
   - Created a new vehicle structure— long arms, large propellers and stabilized platform, and continuous tracks
@@ -55,7 +55,7 @@ tags:
 ✦**Robotic Interoperability Systems** \| Research Assistant 
 
  <  Jun 2018-Jan 2019  >
-- Advisor: Prof. Xiang Xie \| Research Institute of Communication Technology, BIT
+ Advisor: Prof. Xiang Xie \| Research Institute of Communication Technology, BIT
  
   - Completed multi-robot interoperability system by UWB localization and tested it for the World Robot Conference (2018) 
   - Produced multi-robot sound source following system, which is especially useful for helping fallen elders in hospitals.
@@ -65,7 +65,7 @@ tags:
 ✦**Intelligent Anti-lost Reminder for Cards** \| Team Leader, Key Developer
 
  <  Sep 2016-Sep 2017  >
-- Advisor: Prof. Yingjie Wu \| College of Mathematics and Computer Science in Fuzhou University & Instructor Xinghua Wang \| Microsystems and Integrated Circuits club, BIT
+ Advisor: Prof. Yingjie Wu \| College of Mathematics and Computer Science in Fuzhou University & Instructor Xinghua Wang \| Microsystems and Integrated Circuits club, BIT
  
   - Completed a device that prevented people from losing cards and applied it in dormitory bathrooms (reaching over 500 people
   - Designed 3 modules (sensor, process and reminder) using SystemView and soldered the 3-D circuit 
