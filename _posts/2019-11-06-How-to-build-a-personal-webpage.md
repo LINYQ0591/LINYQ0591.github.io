@@ -20,16 +20,6 @@ tags:
 
 本教程针对的是不懂技术又想搭建个人博客的小白，操作简单暴力且快速。当然懂技术那就更好了。
 
-看看看博客的主页样式：
-
-[![](http://upload-images.jianshu.io/upload_images/2178672-51a2fe6fbe24d1cd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)]
-
-在手机上的布局：
-
-[![](http://upload-images.jianshu.io/upload_images/2178672-d58bb45f9faedb70.jpg)]
-
-废话不多说了，开始进入正文。
-
 # 快速开始
 
 ### 从注册一个Github账号开始
@@ -714,17 +704,6 @@ Mac 上的图床神器：iPic
 
 好了，现在个人博客的加载速度估计要起飞了~
 
-# 最后要说个事情
+# 最后
 
-我在博客中的文章，你们可以保留，让更多需要帮助人的看到，当然也可以删除。
-
-但是，我发现居然有人把文章的作者改成了自己，然后当成自己的文章放在自己的博客上，这就令人感到气愤了。
-
-比如说向我请教问题的这位：
-
-![](http://upload-images.jianshu.io/upload_images/2178672-ed45ebafec7f5d34.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-我在博客中的每篇文章都是我一字一句敲出来的，转载的文章我也注明了出处，表示对原作者的尊重。同时也希望大家都能尊重我的付出。
-
-谢谢~
+非常感谢BY的博客，大部分内容转载自他，自己搭建过程中又踩了一些坑，有一点零碎的修改和添加。
