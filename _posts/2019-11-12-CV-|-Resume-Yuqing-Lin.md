@@ -27,7 +27,7 @@ tags:
 
 ## PUBLICATIONS AND PATENTS
 
-1.	**Yuqing Lin**,Y.Xiang, J. Yu,Y. Lin. (2019, May). Defect Detection System for Optical Element Surface Based on Machine Vision, In International Conference on Communication Engineering, Computer Science, Artificial Intelligence (pp. CCA 888), 2019 IEEE International Conference on Information Systems and Computer Aided Education（will be indexed by EI Compendex soon）
+1.	**Yuqing Lin**,Y.Xiang, J. Yu,Y. Lin. (2019, May). [Defect Detection System for Optical Element Surface Based on Machine Vision, In International Conference on Communication Engineering, Computer Science, Artificial Intelligence](https://www.researchgate.net/publication/340893473_Defect_detection_system_for_optical_element_surface_based_on_machine_vision) (pp. CCA 888), 2019 IEEE International Conference on Information Systems and Computer Aided Education（Indexed by EI Compendex soon）
 2.	**Yuqing Lin**, Hai Pei,  [A Reminder Device for Card Safeguard](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN207799879U), Chinese Invention Patent, Patent Number: ZL 201820136659.X, Date: 2018.01.26
 3.	H. P., H. Y., **Yuqing Lin**, J. X., L. Z., B. Z., [Multifunctional desk lamp based on Embedded System](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN209130571U), Chinese Invention Patent, Patent Number: ZL 2018 2 2135479.6, Date: 2019.07.19
 4.	Hai Pei, Jieyu Xie, **Yuqing Lin**, [An Improved Door Lock Based on Traditional Door Handle](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN207794802U), Chinese Invention Patent, Patent Number: ZL 201820028718.5, Date: 2018.01.08
