@@ -19,11 +19,15 @@ tags:
 - **GPA: 3.67/4.0, Major GPA: 4.0/4.0** ( Ranking: Top 10 out of 250+ students, **guaranteed Ph.D. admission**)
 - **Core Courses**: Spread Spectrum Signal Processing and Application (100) /Digital Circuit (96)/ Information theory and coding (95) / Theoretical Basis of Communication Network (92)/Analog Circuit (92)/ Communication Circuit & Systems (92)/ Digital Signal Processing (91)/ Theory of Electromagnetic Field (91)/ Signals and Systems (90)
 
+**University of Alberta, Canada**
+< Jun 2019- Oct 2019 >
+- **Research Intern Department of Mathematical and Statistical Sciences**
+
 **University of Chinese Academy of Sciences(UCAS), China**
 < Sep 2020- present >
 - **Ph.D. student in Signal and information processing**
-- **GPA: 3.86/4.0**
-- **Core Courses**: Digital Video Processing(98) /Machine Learning(90) /Modern Digital Signal Processing(90)
+- **GPA: 3.91/4.0**
+- **Core Courses**: Digital Video Processing (98)/ Deep learning for NLP (98)/ Microwave Remote Sensing (97)/ Matrix Analysis and Applications (92)/ Modern Digital Signal Processing (90)/ Machine Learning (90)
 
 ## PUBLICATIONS AND PATENTS
 
@@ -34,6 +38,13 @@ tags:
 
 ## RESEARCH AND PROJECT	
 
+✦ **(Proposed)Sparse 3D Imaging Methods** \| Ph.D. Research Student
+< Jun 2020-present >
+Advisor: Professor Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
+    - Applied 3D imaging methods in Array Tomography SAR and medical CT images
+    - Try to use sparse data to achieve 3D imaging reconstruction clearly
+
+
 ✦[**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
 
  <  Jun 2019-Oct 2019  >
@@ -43,12 +54,12 @@ tags:
   - Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general 
   - Designed a new method for image edge analysis using box spline quasi-tight wavelet framelet, which is able to detect Dirac edges and hidden edges better than shearlet, Canny, Chan-Vese methods and is also robust against noise
 
-✦**Land and Air Amphibious Reconnaissance Vehicle** \| Team Leader, Key Developer
+✦**Land and Air Amphibious Robot** \| Team Leader, Key Developer
 
   <  Dec 2017-Jun 2019  >
  Advisor: Prof. Yingjie Wu \| College of Mathematics and Computer Science in Fuzhou University &Associate Professor Yanjun Zhang \| Institute of Microelectronics Technology, BIT 
 
-  - Constructed a land and air amphibious vehicle for reconnaissance and transportation, which won outstanding prize of "Challenge Cup"
+  - Constructed a land and air amphibious vehicle for photography, which won outstanding prize of "Challenge Cup"
   - Created a new vehicle structure— long arms, large propellers and stabilized platform, and continuous tracks
   - Achieved more than twice the duration by 6S battery and APM 2.8’s control to 2 modes, compared to similarly sized drones
 
