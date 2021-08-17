@@ -85,6 +85,10 @@ Advisor: Professor Chibiao Ding & Professor Xiaolan Qiu | Institute of Electroni
 
 ## HONORS/AWARDS
 
+- **2021**
+
+  - Excellent Student of UCAS
+  
 - **2020**
 
   - **Beijing Outstanding Graduate** (**Top 3%** out of all the graduates)
