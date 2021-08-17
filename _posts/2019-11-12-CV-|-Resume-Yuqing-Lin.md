@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      CV|Resume--YuqingLIN
-subtitle:   Objective--Signal and information processing
+subtitle:   Objective--Image processing
 date:       2021-03-07
 author:     Yuqing Lin
 header-img: img/cv_backg.jpg
