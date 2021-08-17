@@ -39,6 +39,7 @@ tags:
 ## RESEARCH AND PROJECT	
 
 ✦ **(Proposed)Sparse 3D Imaging Methods** \| Ph.D. Research Student
+
 < Jun 2020-present >
 Advisor: Professor Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
     - Applied 3D imaging methods in Array Tomography SAR and medical CT images
