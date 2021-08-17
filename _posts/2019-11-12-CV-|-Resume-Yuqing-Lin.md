@@ -42,6 +42,8 @@ tags:
 
 < Jun 2020-present >
 Advisor: Professor Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
+
+
     - Applied 3D imaging methods in Array Tomography SAR and medical CT images
     - Try to use sparse data to achieve 3D imaging reconstruction clearly
 
