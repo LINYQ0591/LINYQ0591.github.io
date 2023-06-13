@@ -57,16 +57,16 @@ Advisor: Academician Chibiao Ding & Professor Xiaolan Qiu | Institute of Electro
 < Jun 2021-Jun 2022 >
 Advisor: Academician Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
 
-    - Improved the 3D image reconstruction algorithm by restricting the solution space with priori knowledge from the object, which can generate more accurate results
-    - Applied the algorithm to Monte Carlo simulation data, and the results’ gap to CRLB is 3 times less than traditional OMP method on average
+  - Improved the 3D image reconstruction algorithm by restricting the solution space with priori knowledge from the object, which can generate more accurate results
+  - Applied the algorithm to Monte Carlo simulation data, and the results’ gap to CRLB is 3 times less than traditional OMP method on average
     
 **Research on Sparse 3D Imaging Method of Tomography SAR** \| Ph.D. Research Student         
 
 <Jun 2020-Jun 2021>
 Advisor: Professor Xiaolan Qiu & Instructor Zekun Jiao| Institute of Electronics, UCAS
 
-    - Proposed a Tomography sparse 3D imaging algorithm based on OMP, and analyzed the effect of motion error and the difference from ground truth quantitatively.
-    - Applied the algorithm to actual multi-antenna SAR system’s observation data and represented it in geographic coordinate system for scene analysis.
+  - Proposed a Tomography sparse 3D imaging algorithm based on OMP, and analyzed the effect of motion error and the difference from ground truth quantitatively.
+  - Applied the algorithm to actual multi-antenna SAR system’s observation data and represented it in geographic coordinate system for scene analysis.
 
 
 ✦[**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
