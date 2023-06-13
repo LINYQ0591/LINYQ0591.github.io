@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      |Channel Migration Correction for Low-Altitude Airborne SAR Tomography Based on Keystone Transform
+title:      paper |Channel Migration Correction for Low-Altitude Airborne SAR Tomography Based on Keystone Transform
 subtitle:   Yuqing Lin, Xiaolan Qiu*, senior member, IEEE, Hang Li, Wei Wang, Zekun Jiao, Chibiao Ding
 date:       2021-03-07
 author:     Yuqing Lin
