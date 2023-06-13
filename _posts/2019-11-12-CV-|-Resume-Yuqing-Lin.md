@@ -31,21 +31,37 @@ tags:
 
 ## PUBLICATIONS AND PATENTS
 
-1.	**Yuqing Lin**,Y.Xiang, J. Yu,Y. Lin. (2019, May). [Defect Detection System for Optical Element Surface Based on Machine Vision, In International Conference on Communication Engineering, Computer Science, Artificial Intelligence](https://www.researchgate.net/publication/340893473_Defect_detection_system_for_optical_element_surface_based_on_machine_vision) (pp. CCA 888), 2019 IEEE International Conference on Information Systems and Computer Aided Education（Indexed by EI Compendex soon）
-2.	**Yuqing Lin**, Hai Pei,  [A Reminder Device for Card Safeguard](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN207799879U), Chinese Invention Patent, Patent Number: ZL 201820136659.X, Date: 2018.01.26
-3.	H. P., H. Y., **Yuqing Lin**, J. X., L. Z., B. Z., [Multifunctional desk lamp based on Embedded System](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN209130571U), Chinese Invention Patent, Patent Number: ZL 2018 2 2135479.6, Date: 2019.07.19
-4.	Hai Pei, Jieyu Xie, **Yuqing Lin**, [An Improved Door Lock Based on Traditional Door Handle](http://epub.sipo.gov.cn/tdcdesc.action?strWhere=CN207794802U), Chinese Invention Patent, Patent Number: ZL 201820028718.5, Date: 2018.01.08
+1.	**Yuqing Lin**,Yitong Luo, Xiaolan Qiu, Hang Li, Chibiao Ding, NON-LINE-OF-SIGHT TARGET IMAGING IN TOMOGRAPHIC SAR BY MULTIPATH SIGNAL ANALYSIS, IGARSS 2023 (oral).
+2.	**Yuqing Lin**,, Xiaolan Qiu, Hang Li, Wei Wang, Zekun Jiao, Chibiao Ding, Channel Migration Correction for Low-Altitude Airborne SAR Tomography Based on Keystone Transform, Geoscience and Remote Sensing Letters (Revising)
+3.	C. Chen, J. Yu, **Y. Lin** et al. Fire detection based on improved PP-YOLO. Signal, Image and Video Processing (SIViP), Date: 2022.07.01 
+4.	Hang Li, **Yuqing Lin**,, An array InSAR 3-D reconstruction approach based on group sparsity, Chinese Invention Patent, processing, Date: 2022.04
+5.	Hang Li, **Yuqing Lin**,, Bo Zhang, An 3D Imaging for Array InSAR Based on Gaussian Mixture Model Clustering, Chinese Invention Patent, processing, Date: 2022.04
+6.	**Y. Lin**, Y. Xiang, Y. Lin, J. Yu, Defect Detection System for Optical Element Surface Based on Machine Vision. 2019 International Conference on Information Systems and Computer Aided Education (ICISCAE) (pp. 221665).IEEE.
+7.	**Yuqing Lin**, Hai Pei, A Reminder Device for Card Safeguard, Chinese Invention Patent, Patent Number: ZL 2018 2 0136659.X, Date: 2018.01.26
+8.	H. P., H. Y., **Yuqing Lin**, J. X., L. Z., B. Z., Multifunctional desk lamp based on Embedded System, Chinese Invention Patent, Patent Number: ZL 2018 2 2135479.6, Date: 2019.07.19
+9.	Hai Pei, Jieyu Xie,**Yuqing Lin**, An Improved Door Lock Based on Traditional Door Handle, Chinese Invention Patent, Patent Number: ZL 2018 2 0028718.5, Date: 2018.01.08
+
 
 ## RESEARCH AND PROJECT	
 
-✦ **(Proposed)Sparse 3D Imaging Methods** \| Ph.D. Research Student
+✦ **(Ongoing) Multipath effect in Line of Sight(LOS) and Non-Line of Sight(NLOS)** \| Ph.D. Research Student
 
-< Jun 2020-present >
-Advisor: Professor Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
+< July 2022 - present >
+Advisor: Academician Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
 
-
-    - Applied 3D imaging methods in Array Tomography SAR and medical CT images
-    - Try to use sparse data to achieve 3D imaging reconstruction clearly
+    - Model the LOS and NLOS scattering mechanism of typical scene to investigate the hidden information from images 
+    - Utilize the priori model to detect ambiguity of 3D image reconstruction and obtain additional information from NLOS 
+    
+**Improved Reconstruction Algorithm on Restricted Solution Space** \| Ph.D. Student
+< Jun 2021-Jun 2022 >
+Advisor: Academician Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
+    - Improved the 3D image reconstruction algorithm by restricting the solution space with priori knowledge from the object, which can generate more accurate results
+    - Applied the algorithm to Monte Carlo simulation data, and the results’ gap to CRLB is 3 times less than traditional OMP method on average
+**Research on Sparse 3D Imaging Method of Tomography SAR** \| Ph.D. Research Student         
+<Jun 2020-Jun 2021>
+Advisor: Professor Xiaolan Qiu & Instructor Zekun Jiao| Institute of Electronics, UCAS
+    - Proposed a Tomography sparse 3D imaging algorithm based on OMP, and analyzed the effect of motion error and the difference from ground truth quantitatively.
+    - Applied the algorithm to actual multi-antenna SAR system’s observation data and represented it in geographic coordinate system for scene analysis.
 
 
 ✦[**Study on Framelets with Applications to Signal Processing**](https://linyq0591.github.io/2019/11/18/wavelet-poster-University-of-Alberta/) \| Research Intern
@@ -87,7 +103,7 @@ Advisor: Professor Chibiao Ding & Professor Xiaolan Qiu | Institute of Electroni
 
 ## HONORS/AWARDS
 
-- **2021**
+- **2021-present**
 
   - Excellent Student of UCAS
   
