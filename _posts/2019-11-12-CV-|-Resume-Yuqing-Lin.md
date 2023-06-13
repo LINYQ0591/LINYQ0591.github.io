@@ -32,7 +32,7 @@ tags:
 ## PUBLICATIONS AND PATENTS
 
 1.	**Yuqing Lin**,Yitong Luo, Xiaolan Qiu, Hang Li, Chibiao Ding, NON-LINE-OF-SIGHT TARGET IMAGING IN TOMOGRAPHIC SAR BY MULTIPATH SIGNAL ANALYSIS, IGARSS 2023 (oral).
-2.	**Yuqing Lin**,, Xiaolan Qiu, Hang Li, Wei Wang, Zekun Jiao, Chibiao Ding, Channel Migration Correction for Low-Altitude Airborne SAR Tomography Based on Keystone Transform, Geoscience and Remote Sensing Letters (Revising)
+2.	**Yuqing Lin**,, Xiaolan Qiu, Hang Li, Wei Wang, Zekun Jiao, Chibiao Ding, [Channel Migration Correction for Low-Altitude Airborne SAR Tomography Based on Keystone Transform](), Geoscience and Remote Sensing Letters (Revising)
 3.	C. Chen, J. Yu, **Y. Lin** et al. Fire detection based on improved PP-YOLO. Signal, Image and Video Processing (SIViP), Date: 2022.07.01 
 4.	Hang Li, **Yuqing Lin**,, An array InSAR 3-D reconstruction approach based on group sparsity, Chinese Invention Patent, processing, Date: 2022.04
 5.	Hang Li, **Yuqing Lin**,, Bo Zhang, An 3D Imaging for Array InSAR Based on Gaussian Mixture Model Clustering, Chinese Invention Patent, processing, Date: 2022.04
@@ -49,18 +49,22 @@ tags:
 < July 2022 - present >
 Advisor: Academician Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
 
-    - Model the LOS and NLOS scattering mechanism of typical scene to investigate the hidden information from images 
-    - Utilize the priori model to detect ambiguity of 3D image reconstruction and obtain additional information from NLOS 
+  - Model the LOS and NLOS scattering mechanism of typical scene to investigate the hidden information from images 
+  - Utilize the priori model to detect ambiguity of 3D image reconstruction and obtain additional information from NLOS 
     
 **Improved Reconstruction Algorithm on Restricted Solution Space** \| Ph.D. Student
+
 < Jun 2021-Jun 2022 >
 Advisor: Academician Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
+
     - Improved the 3D image reconstruction algorithm by restricting the solution space with priori knowledge from the object, which can generate more accurate results
     - Applied the algorithm to Monte Carlo simulation data, and the results’ gap to CRLB is 3 times less than traditional OMP method on average
     
 **Research on Sparse 3D Imaging Method of Tomography SAR** \| Ph.D. Research Student         
+
 <Jun 2020-Jun 2021>
 Advisor: Professor Xiaolan Qiu & Instructor Zekun Jiao| Institute of Electronics, UCAS
+
     - Proposed a Tomography sparse 3D imaging algorithm based on OMP, and analyzed the effect of motion error and the difference from ground truth quantitatively.
     - Applied the algorithm to actual multi-antenna SAR system’s observation data and represented it in geographic coordinate system for scene analysis.
 
