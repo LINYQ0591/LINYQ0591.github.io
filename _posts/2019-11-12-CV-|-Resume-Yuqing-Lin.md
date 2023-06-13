@@ -57,6 +57,7 @@ Advisor: Academician Chibiao Ding & Professor Xiaolan Qiu | Institute of Electro
 Advisor: Academician Chibiao Ding & Professor Xiaolan Qiu | Institute of Electronics, UCAS
     - Improved the 3D image reconstruction algorithm by restricting the solution space with priori knowledge from the object, which can generate more accurate results
     - Applied the algorithm to Monte Carlo simulation data, and the results’ gap to CRLB is 3 times less than traditional OMP method on average
+    
 **Research on Sparse 3D Imaging Method of Tomography SAR** \| Ph.D. Research Student         
 <Jun 2020-Jun 2021>
 Advisor: Professor Xiaolan Qiu & Instructor Zekun Jiao| Institute of Electronics, UCAS
@@ -73,7 +74,7 @@ Advisor: Professor Xiaolan Qiu & Instructor Zekun Jiao| Institute of Electronics
   - Implemented Image Inpainting using iteration of framelet threshold smoothing, which can restore an 80+% image from prior data less than 30% in general 
   - Designed a new method for image edge analysis using box spline quasi-tight wavelet framelet, which is able to detect Dirac edges and hidden edges better than shearlet, Canny, Chan-Vese methods and is also robust against noise
 
-✦**Land and Air Amphibious Robot** \| Team Leader, Key Developer
+**Land and Air Amphibious Robot** \| Team Leader, Key Developer
 
   <  Dec 2017-Jun 2019  >
  Advisor: Prof. Yingjie Wu \| College of Mathematics and Computer Science in Fuzhou University &Associate Professor Yanjun Zhang \| Institute of Microelectronics Technology, BIT 
@@ -82,7 +83,7 @@ Advisor: Professor Xiaolan Qiu & Instructor Zekun Jiao| Institute of Electronics
   - Created a new vehicle structure— long arms, large propellers and stabilized platform, and continuous tracks
   - Achieved more than twice the duration by 6S battery and APM 2.8’s control to 2 modes, compared to similarly sized drones
 
-✦**Robotic Interoperability Systems** \| Research Assistant 
+**Robotic Interoperability Systems** \| Research Assistant 
 
  <  Jun 2018-Jan 2019  >
  Advisor: Prof. Xiang Xie \| Research Institute of Communication Technology, BIT
@@ -92,7 +93,7 @@ Advisor: Professor Xiaolan Qiu & Instructor Zekun Jiao| Institute of Electronics
   - Developed STM32 embedded applications and revised the upper monitor with Qt5 to specialize the system
   - Developed a 3-ball positioning coordination calculation algorithms using Python
 
-✦**Intelligent Anti-lost Reminder for Cards** \| Team Leader, Key Developer
+**Intelligent Anti-lost Reminder for Cards** \| Team Leader, Key Developer
 
  <  Sep 2016-Sep 2017  >
  Advisor: Prof. Yingjie Wu \| College of Mathematics and Computer Science in Fuzhou University & Instructor Xinghua Wang \| Microsystems and Integrated Circuits club, BIT
