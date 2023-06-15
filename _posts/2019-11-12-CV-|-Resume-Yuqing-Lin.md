@@ -2,7 +2,7 @@
 layout:     post
 title:      CV|Resume--YuqingLIN
 subtitle:   Objective--Image processing
-date:       2023-06-07
+date:       2023-06-15
 author:     Yuqing Lin
 header-img: img/cv_backg.jpg
 catalog: true
