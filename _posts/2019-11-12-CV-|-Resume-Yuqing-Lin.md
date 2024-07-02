@@ -31,15 +31,17 @@ tags:
 
 ## PUBLICATIONS AND PATENTS
 
-1.	**Yuqing Lin**,Yitong Luo, Xiaolan Qiu, Hang Li, Chibiao Ding, NON-LINE-OF-SIGHT TARGET IMAGING IN TOMOGRAPHIC SAR BY MULTIPATH SIGNAL ANALYSIS, IGARSS 2023 (oral).
-2.	**Yuqing Lin**,, Xiaolan Qiu, Hang Li, Wei Wang, Zekun Jiao, Chibiao Ding, [Channel Migration Correction for Low-Altitude Airborne SAR Tomography Based on Keystone Transform](), Geoscience and Remote Sensing Letters (Revising)
-3.	C. Chen, J. Yu, **Y. Lin** et al. Fire detection based on improved PP-YOLO. Signal, Image and Video Processing (SIViP), Date: 2022.07.01 
-4.	Hang Li, **Yuqing Lin**,, An array InSAR 3-D reconstruction approach based on group sparsity, Chinese Invention Patent, processing, Date: 2022.04
-5.	Hang Li, **Yuqing Lin**,, Bo Zhang, An 3D Imaging for Array InSAR Based on Gaussian Mixture Model Clustering, Chinese Invention Patent, processing, Date: 2022.04
-6.	**Y. Lin**, Y. Xiang, Y. Lin, J. Yu, Defect Detection System for Optical Element Surface Based on Machine Vision. 2019 International Conference on Information Systems and Computer Aided Education (ICISCAE) (pp. 221665).IEEE.
-7.	**Yuqing Lin**, Hai Pei, A Reminder Device for Card Safeguard, Chinese Invention Patent, Patent Number: ZL 2018 2 0136659.X, Date: 2018.01.26
-8.	H. P., H. Y., **Yuqing Lin**, J. X., L. Z., B. Z., Multifunctional desk lamp based on Embedded System, Chinese Invention Patent, Patent Number: ZL 2018 2 2135479.6, Date: 2019.07.19
-9.	Hai Pei, Jieyu Xie,**Yuqing Lin**, An Improved Door Lock Based on Traditional Door Handle, Chinese Invention Patent, Patent Number: ZL 2018 2 0028718.5, Date: 2018.01.08
+1.	**LIN Yuqing**, QIU Xiaolan, et al. Multipath Exploitation: Non-Line-of-Sight Target Relocation in Array-InSAR Three-dimensional Imaging. IEEE Transactions on Geoscience and Remote Sensing,TGRS, revising
+2.	**Yuqing Lin**, Xiaolan Qiu, Hang Li, Wei Wang, Zekun Jiao, Chibiao Ding, ["Channel Migration Correction for Low-Altitude Airborne SAR Tomography Based on Keystone Transform," in IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 4011805, doi: 10.1109/LGRS.2023.3320188. ](https://ieeexplore.ieee.org/document/10266383?source=authoralert), Geoscience and Remote Sensing Letters
+3.	**Yuqing Lin**,Yitong Luo, Xiaolan Qiu, Hang Li, Chibiao Ding,["Non-Line-Of-Sight Target Imaging in Tomographic SAR by Multipath Signal Analysis," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 7761-7764, doi: 10.1109/IGARSS52108.2023.10281638.](https://ieeexplore.ieee.org/document/10281638)
+4.	**LIN Yuqing**, QIU Xiaolan, PENG Lingxiao, et al. [Non-line-of-sight target relocation by multipath model in SAR 3D urban area imaging](https://radars.ac.cn/article/doi/10.12000/JR24057)[J]. Journal of Radars,  in press. doi:  10.12000/JR24057
+5.	C. Chen, J. Yu, **Y. Lin** et al. Fire detection based on improved PP-YOLO. Signal, Image and Video Processing (SIViP), Date: 2022.07.01 
+6.	Hang Li, **Yuqing Lin**,, An array InSAR 3-D reconstruction approach based on group sparsity, Chinese Invention Patent, processing, Date: 2022.04
+7.	Hang Li, **Yuqing Lin**,, Bo Zhang, An 3D Imaging for Array InSAR Based on Gaussian Mixture Model Clustering, Chinese Invention Patent, processing, Date: 2022.04
+8.	**Y. Lin**, Y. Xiang, Y. Lin, J. Yu, Defect Detection System for Optical Element Surface Based on Machine Vision. 2019 International Conference on Information Systems and Computer Aided Education (ICISCAE) (pp. 221665).IEEE.
+9.	**Yuqing Lin**, Hai Pei, A Reminder Device for Card Safeguard, Chinese Invention Patent, Patent Number: ZL 2018 2 0136659.X, Date: 2018.01.26
+10.	H. P., H. Y., **Yuqing Lin**, J. X., L. Z., B. Z., Multifunctional desk lamp based on Embedded System, Chinese Invention Patent, Patent Number: ZL 2018 2 2135479.6, Date: 2019.07.19
+11.	Hai Pei, Jieyu Xie,**Yuqing Lin**, An Improved Door Lock Based on Traditional Door Handle, Chinese Invention Patent, Patent Number: ZL 2018 2 0028718.5, Date: 2018.01.08
 
 
 ## RESEARCH AND PROJECT	
